@@ -4,7 +4,7 @@ This repository contains the code for a multi-class classification model designe
 
 ## Description
 
-In this project, we develop a machine learning model capable of classifying call center audio recordings into predefined categories. The model is built using BERT-based architecture for handling textual data extracted from audio, and it is trained and fine-tuned for optimal performance.
+In this project, we develop a machine learning model capable of classifying call center audio recordings into predefined categories. The model is built using a BERT-based architecture for handling textual data extracted from audio, and it is trained and fine-tuned for optimal performance.
 
 ## Installation
 
@@ -19,3 +19,11 @@ cd Call_Center_Audio_Multi_Class_Classification
 
 # Install the required Python packages
 pip install -r requirements.txt
+
+## Usage
+Google Colab
+To run the notebook on Google Colab, follow these steps:
+
+Open Google Colab.
+Upload the Call_Center_Audio_Multi_Class_Classification.ipynb notebook to Colab.
+Follow the instructions in the notebook to run each cell.

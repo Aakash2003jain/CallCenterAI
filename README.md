@@ -13,6 +13,7 @@ To set up the environment and install the required dependencies, please follow t
 ```bash
 # Clone the repository
 git clone https://github.com/Aakash2003jain/CallCenterAI.git
+
 # Navigate to the project directory
 cd CallCenterAI
 

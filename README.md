@@ -12,7 +12,7 @@ To set up the environment and install the required dependencies, please follow t
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/Call_Center_Audio_Multi_Class_Classification.git
+git clone https://github.com/Aakash2003jain/Call_Center_Audio_Multi_Class_Classification.git
 
 # Navigate to the project directory
 cd Call_Center_Audio_Multi_Class_Classification
